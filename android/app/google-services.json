@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "850990034846",
+    "project_id": "logfire-36993",
+    "storage_bucket": "logfire-36993.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:850990034846:android:0572fd6c35ed02ea9e308f",
+        "android_client_info": {
+          "package_name": "com.example.logfire"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "850990034846-nftdudofqm9soma2jo613h8d4r93vk6m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAg6iHkSjEOrvYMPZk6iImkOum_0_aSjQw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "850990034846-nftdudofqm9soma2jo613h8d4r93vk6m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
